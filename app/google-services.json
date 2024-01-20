@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729353135886",
+    "project_id": "authbadri",
+    "storage_bucket": "authbadri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729353135886:android:4a82c5ba245ba070ae195f",
+        "android_client_info": {
+          "package_name": "com.example.resoluteai_badri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvEIDH1tY0soOApHBP0x4uYS3eOyOP7pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
